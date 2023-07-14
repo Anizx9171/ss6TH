@@ -1,0 +1,151 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 0;
+    color: black;
+    text-decoration: none;
+}
+
+p {
+    font-size: 7.11px;
+}
+
+body {
+    background-color: #e0e0e0;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+body>.contener {
+    width: 640px;
+    background-color: #fff;
+}
+
+header {
+    font-size: 7.11px;
+    margin: 10.67px 72px 10.67px 72px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 164.28px;
+}
+
+.bt {
+    font-size: 8px;
+    background-color: #0077C0;
+    color: white;
+    border-radius: 5px;
+    padding: 4.33px 12.4px;
+}
+
+
+ul {
+    display: flex;
+    align-items: center;
+    gap: 14.22px;
+}
+
+nav {
+    display: flex;
+    gap: 14.22px;
+}
+
+.contener_1 {
+    width: 495.56px;
+    height: 320px;
+    position: relative;
+    margin-left: 72px;
+    margin-bottom: 32px;
+}
+
+.img3,
+.img4 {
+    position: absolute;
+}
+
+.img4 {
+    bottom: 0px;
+    left: 216.55px;
+}
+
+.img3 {
+    bottom: 0px;
+    left: 175px;
+}
+
+.item {
+    display: flex;
+    flex-direction: column;
+    gap: 14.22px;
+    margin-top: 64px;
+    width: 242.67px;
+}
+
+h1 {
+    font-size: 26.67px;
+}
+
+.p1 {
+    width: 171.56px;
+}
+
+.bt2 {
+    margin-top: 14.22px;
+}
+
+.contener_2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 31.71px;
+    margin-bottom: 32px;
+}
+.contener_3{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #0077C0;
+    padding: 35.56px 0px 59.11px 0px;
+}
+.contener_3>div:first-child{
+    text-align: center;
+}
+.contener_3>div:first-child>p{
+    margin-bottom: 3.56px;
+}
+.p2{
+        color: #fff;
+}
+.box2{
+    display: flex;
+    align-items: center;
+    gap: 10.67px;
+}
+.itema{
+    width: 158.22px;
+    height: 121.33px;
+    margin-right: 10.67px;
+    margin-top: 34px;
+}
+.itema>h6{
+    margin-top: 21.33px;
+    margin-bottom: 7.11px;
+
+}
+.last{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 52.89px;
+    margin-top: 30.67px;
+    padding-bottom: 32.44px;
+}
+h4 {
+    font-size: 21.33px;
+    margin-bottom: 14.67px;
+}
